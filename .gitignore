@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.parquet
+*.csv
+*.png
+.DS_Store
+*conflicted copy*
